@@ -1,0 +1,117 @@
+station,latitude,longitude,country,region,region_id
+ac23,60.475,-150.878,USA,USA West Coast and Canada,4
+ac24,58.682,-156.653,USA,USA West Coast and Canada,4
+aira,31.824,130.6,JPN,East Asia,0
+ank2,39.843,32.775,TUR,Middle East and Southern Europe,2
+anmg,2.785,101.507,MYS,South-East Asia,3
+antc,-37.339,-71.532,CHL,South America,7
+antf,-23.702,-70.42,CHL,South America,7
+areg,-16.465,-71.493,PER,South America,7
+areq,-16.466,-71.493,PER,South America,7
+aruc,40.286,44.086,ARM,Middle East and Southern Europe,2
+auck,-36.603,174.834,NZL,Oceania and New Zealand,5
+badg,51.77,102.235,RUS,Central Asia,8
+bako,-6.491,106.849,IDN,South-East Asia,3
+bhr3,26.209,50.608,BHR,Middle East and Southern Europe,2
+blyt,33.61,-114.715,USA,USA West Coast and Canada,4
+bnoa,-8.746,115.21,IDN,South-East Asia,3
+bogt,4.64,-74.081,COL,South America,7
+brun,4.971,114.952,BRN,South-East Asia,3
+btng,1.439,125.19,IDN,South-East Asia,3
+ccj2,27.068,142.195,JPN,East Asia,0
+chan,43.79,125.443,CHN,East Asia,0
+chti,-43.735,-176.617,NZL,Polinesia,6
+cibg,-6.49,106.849,IDN,South-East Asia,3
+cmum,18.761,98.932,THA,South-East Asia,3
+cnmr,15.23,145.743,USA,East Asia,0
+cord,-31.528,-64.47,ARG,South America,7
+coso,35.982,-117.809,USA,USA West Coast and Canada,4
+coyq,-45.514,-71.892,CHL,South America,7
+cro1,17.757,-64.584,VIR,Central America and Carribbean,1
+darw,-12.844,131.133,AUS,South-East Asia,3
+dyng,38.079,23.932,GRC,Middle East and Southern Europe,2
+falk,-51.694,-57.874,FLK,South America,7
+ftna,-14.308,-178.121,WLF,Polinesia,6
+graz,47.067,15.493,AUT,Middle East and Southern Europe,2
+guat,14.59,-90.52,GTM,Central America and Carribbean,1
+guug,13.433,144.803,USA,East Asia,0
+hamd,34.869,48.534,IRN,Middle East and Southern Europe,2
+holb,50.64,-128.135,CAN,USA West Coast and Canada,4
+ineg,21.856,-102.284,MEX,Central America and Carribbean,1
+iqqe,-20.274,-70.132,CHL,South America,7
+irkj,52.219,104.316,RUS,Central Asia,8
+isba,33.341,44.438,IRQ,Middle East and Southern Europe,2
+ishi,36.209,140.219,JPN,East Asia,0
+ispa,-27.125,-109.344,CHL,South America,7
+izmi,38.395,27.082,TUR,Middle East and Southern Europe,2
+jdpr,26.206,73.024,IND,Middle East and Southern Europe,2
+jnav,21.005,105.844,VNM,South-East Asia,3
+jog2,-7.764,110.372,IDN,South-East Asia,3
+kitg,39.133,66.887,UZB,Central Asia,8
+krs1,40.588,43.093,TUR,Middle East and Southern Europe,2
+lae1,-6.674,146.993,PNG,Oceania and New Zealand,5
+laut,-17.609,177.447,FJI,Oceania and New Zealand,5
+lck3,26.912,80.956,IND,South-East Asia,3
+lhaz,29.657,91.104,CHN,Central Asia,8
+m0se,41.893,12.493,ITA,Other,100
+mac1,-54.5,158.936,AUS,Oceania and New Zealand,5
+mana,12.149,-86.249,NIC,Central America and Carribbean,1
+meli,35.281,-2.952,ESP,Other,100
+mers,36.566,34.256,TUR,Middle East and Southern Europe,2
+mgue,-35.777,-69.398,ARG,South America,7
+mizu,39.135,141.133,JPN,East Asia,0
+mkea,19.801,-155.456,USA,USA West Coast and Canada,4
+monp,32.892,-116.422,USA,USA West Coast and Canada,4
+mqzg,-43.703,172.655,NZL,Oceania and New Zealand,5
+mssa,36.14,138.352,JPN,East Asia,0
+mtka,35.68,139.561,JPN,East Asia,0
+nabg,78.943,11.857,NOR,Other,100
+ncku,22.997,120.223,TWN,East Asia,0
+nrmd,-22.228,166.485,NCL,Oceania and New Zealand,5
+ohi3,-63.321,-57.901,ATA,South America,7
+orid,41.127,20.794,MKD,Middle East and Southern Europe,2
+ous2,-45.869,170.511,NZL,Oceania and New Zealand,5
+pbr4,11.637,92.712,IND,South-East Asia,3
+pets,53.023,158.65,RUS,East Asia,0
+pgen,6.065,125.132,PHL,South-East Asia,3
+pimo,14.636,121.078,PHL,South-East Asia,3
+pngm,-2.043,147.366,PNG,Oceania and New Zealand,5
+pol2,42.68,74.694,KGZ,Central Asia,8
+ptag,14.535,121.041,PHL,South-East Asia,3
+ptvl,-17.749,168.315,VUT,Oceania and New Zealand,5
+qui4,-0.14,-78.467,ECU,South America,7
+quin,39.975,-120.944,USA,USA West Coast and Canada,4
+rdsd,18.461,-69.911,DOM,Central America and Carribbean,1
+reyk,64.139,-21.955,ISL,Other,100
+rgdg,-53.786,-67.752,ARG,South America,7
+riop,-1.651,-78.651,ECU,South America,7
+samo,-13.849,-171.738,WSM,Polinesia,6
+sant,-33.15,-70.669,CHL,South America,7
+scrz,-17.797,-63.16,BOL,South America,7
+scub,20.012,-75.762,CUB,Central America and Carribbean,1
+shlg,25.674,91.913,IND,South-East Asia,3
+sin1,1.343,103.679,SGP,South-East Asia,3
+smst,33.578,135.937,JPN,East Asia,0
+sni1,33.248,-119.524,USA,USA West Coast and Canada,4
+solo,-9.435,159.954,SLB,Oceania and New Zealand,5
+ssia,13.697,-89.116,SLV,Central America and Carribbean,1
+stfu,37.427,-122.173,USA,USA West Coast and Canada,4
+stk2,43.529,141.845,JPN,East Asia,0
+tash,41.328,69.296,UZB,Central Asia,8
+tcms,24.798,120.987,TWN,East Asia,0
+tehn,35.697,51.334,IRN,Middle East and Southern Europe,2
+thu2,76.537,-68.825,GRL,Other,100
+tong,-21.145,-175.179,TON,Polinesia,6
+tsk2,36.106,140.087,JPN,East Asia,0
+tubi,40.787,29.451,TUR,Middle East and Southern Europe,2
+twtf,24.954,121.164,TWN,East Asia,0
+uclu,48.926,-125.542,CAN,USA West Coast and Canada,4
+unsa,-24.727,-65.408,ARG,South America,7
+urum,43.808,87.601,CHN,Central Asia,8
+uscl,-33.45,-70.681,CHL,South America,7
+usp1,-18.149,178.446,FJI,Oceania and New Zealand,5
+wgtn,-41.323,174.806,NZL,Oceania and New Zealand,5
+whit,60.751,-135.222,CAN,USA West Coast and Canada,4
+xmis,-10.45,105.689,AUS,South-East Asia,3
+yibl,22.186,56.112,OMN,Middle East and Southern Europe,2
+yssk,47.03,142.717,RUS,East Asia,0
